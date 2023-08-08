@@ -1,0 +1,3 @@
+Escrevendo dados nesse arquivo durante o curso Udemy.
+Linhas ilimitadas para escrever.
+Última linha do arquivo 123.
